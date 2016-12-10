@@ -1,0 +1,21 @@
+{
+  "name": "fisx-preprocessor-babel",
+  "version": "0.1.0",
+  "description": "A babel preprocessor for fisx",
+  "main": "index.js",
+  "keywords": ["fisx","fis3","fis","babel","preprocessor"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuhy/fisx-preprocessor-babel.git"
+  },
+  "bugs": {
+    "url": "http://github.com/wuhy/fisx-preprocessor-babel/issues"
+  },
+  "author": "sparklewhy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
