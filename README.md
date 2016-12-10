@@ -1,4 +1,4 @@
-fisx-preprcoessor-babel
+fisx-preprocessor-babel
 ======
 > A preprocessor to process the code compiled by babel when using babel-plugin-external-helpers plugin. 
 
