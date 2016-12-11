@@ -18,6 +18,8 @@ fis.match('/src/**.js', {
 });
 ```
 
+You can use the [fisx-prepackager-babel](https://github.com/wuhy/fisx-prepackager-babel) plugin to output the babel helper code file.
+
 ### Options
 
 * babelHelperModId - `string` `optional`: define the babel helpers module id, by default `babelHelpers`
