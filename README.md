@@ -1,5 +1,8 @@
 fisx-preprocessor-babel
 ======
+
+[![Dependency Status](https://david-dm.org/wuhy/fisx-preprocessor-babel.svg)](https://david-dm.org/wuhy/fisx-preprocessor-babel) [![devDependency Status](https://david-dm.org/wuhy/fisx-preprocessor-babel/dev-status.svg)](https://david-dm.org/wuhy/fisx-preprocessor-babel#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/fisx-preprocessor-babel.svg?style=flat)](https://npmjs.org/package/fisx-preprocessor-babel)
+
 > A preprocessor to process the code compiled by babel when using babel-plugin-external-helpers plugin. 
 
 ## How to use
